@@ -63,13 +63,13 @@ const Anniversary = () => {
             ]
         },
         {
-            question: "Какой у меня любимый фильм?",
+            question: "Какой у нас любимый фильм?",
             image: img134,
             answers: [
                 { text: "Тот который мы смотрим вместе", points: 5 },
                 { text: "Тот который мы смотрим вместе и там ещё лысый дядька", points: 10 },
                 { text: "Kingsman", points: 5 },
-                { text: "Фильм в котором мы принимаем участие", points: 20 }
+                { text: "Адвокат дъявола", points: 20 }
             ]
         },
         {
@@ -79,7 +79,7 @@ const Anniversary = () => {
                 { text: "На похоронах паши техника", points: 0 },
                 { text: "На концерте фараона", points: 0 },
                 { text: "В кафе", points: 0 },
-                { text: "У мэня в домике", points: 10 }
+                { text: "У тибя в подъезде", points: 10 }
             ]
         },
         {
@@ -145,7 +145,7 @@ const Anniversary = () => {
             ]
         },
         {
-            question: "Какое слово ты чаще всего говоришь мне?",
+            question: "Какие слова я чаще всего говорю тебе?",
             image: img141,
             answers: [
                 { text: "Люблю", points: 1 },
